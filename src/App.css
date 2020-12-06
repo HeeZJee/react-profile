@@ -105,10 +105,13 @@ article {
         width: 310px;
     }
     .quoteoftheday {
-        width: 100%;
+        width: 60%;
+        font-size: 18px;
+        text-align: right;
     }
     .name {
-        width: 100%;
+        width: 30%;
+        font-size: 24px;
         text-align: left;
     }
     .quote h1 {
